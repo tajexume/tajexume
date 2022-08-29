@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tajexume
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning java, SQL, and splunk
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning GO, ML, SQL, and JS Frameworks; as well as testing tools
+- 💞️ I’m happy to work on Full stack projects, Scripting, Code Reviews, tips, advice
 - 📫 How to reach me, call @336-575-8369 or email @ tajexume@gmail.com
 
 <!---
